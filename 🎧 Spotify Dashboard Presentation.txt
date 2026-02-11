@@ -1,0 +1,75 @@
+🎧 Spotify Power BI Dashboard Presentation Script
+
+⏱️ 0:00 – 0:30 | Introduction (Landing Screen)
+
+Good morning respected sir / ma’am.
+My name is Pournima, and today I am presenting my Spotify Analytics Dashboard created using Power BI.
+
+The main objective of this project is to analyze music data and understand streaming trends, track features, artist performance, and listening behavior in an interactive way.
+
+I have used Spotify dataset, Power BI visuals, slicers, and drill-through functionality to make this dashboard dynamic and user-friendly.
+
+⏱️ 0:30 – 1:40 | Home Page (Overview Page)
+
+This is the Home page, which gives a high-level overview of the complete Spotify data.
+
+On the left side, we have filters like Artist Name, Track Name, Year, and Platform, which control all visuals on the page.
+
+In the center, these KPIs show the average audio features such as BPM, Danceability, Energy, and Valence, which describe the overall music mood.
+
+Here we can see total streams, total tracks, total artists, and average artist popularity, which summarize platform performance.
+
+The charts below highlight top tracks and top artists by streams, helping us quickly identify the most popular content.
+
+The streaming trend at the bottom shows how music consumption has grown over time.
+
+⏱️ 1:40 – 2:40 | Tracks Page
+
+Now I’ll move to the Tracks Analysis page.
+
+On the left, I have displayed a track list with album images and artist names, which gives a real Spotify-like experience.
+
+The KPIs again show average BPM, danceability, energy, and liveness for the selected tracks.
+
+In the center, the track image card represents the currently selected song.
+
+On the right, I have shown the Top 5 popular tracks, along with the distribution of Explicit vs Non-Explicit tracks and Major vs Minor modes.
+
+At the bottom, the charts show track distribution by musical key and track trends over time, which helps understand music composition patterns.
+
+⏱️ 2:40 – 3:40 | Artist Page
+
+Next is the Artist Analysis page.
+
+Here, users can filter by artist name, genre, time, and popularity.
+
+The table shows artist-wise streams along with danceability, energy, and popularity, making it easy to compare artists.
+
+The bar chart highlights the most popular artists, while the trend chart below shows artist streaming trends year by year, including comparison with previous years.
+
+On the right side, the Artist Profile card dynamically displays details of the selected artist such as name, genre, and total streams.
+
+⏱️ 3:40 – 4:30 | Listening Page
+
+Now I’ll move to the Listening Behavior page, which focuses on user activity patterns.
+
+The KPIs show total listening minutes, skip rate, and shuffle rate, which help analyze user engagement.
+
+The device usage chart shows that most listening happens on Android, followed by other platforms.
+
+The hourly skip profile shows at which time users skip songs the most.
+
+The heatmap helps identify listening intensity by day and hour, while the line chart shows how listening behavior changes over time.
+
+⏱️ 4:30 – 5:00 | Drill-Through + Conclusion
+
+Additionally, I have implemented Drill-Through functionality.
+
+When we right-click on any artist or track, we can drill through to a detailed Track or Artist page, while keeping all filters applied.
+This helps in deep-level analysis without changing the main report.
+
+To conclude, this dashboard helps understand music trends, artist performance, track characteristics, and user listening behavior in a single interactive report.
+
+Through this project, I learned Power BI modeling, DAX basics, visual design, and storytelling with data.
+
+Thank you.
