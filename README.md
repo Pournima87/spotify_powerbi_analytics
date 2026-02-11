@@ -94,10 +94,12 @@ The dashboard helps stakeholders:
 
 ---
 
-## 🎥 Demo
-(Add your video link here – YouTube / Drive)
-- https://drive.google.com/file/d/1fuJ0JTq7mczWWcPudr3KAP0W7DE4SQDo/view?usp=sharing
-
+## 🖼 Dashboard Preview
+<img width="1338" height="756" alt="Screenshot 2026-02-11 184525" src="https://github.com/user-attachments/assets/f41cf985-85a7-4911-b8e9-6d466cdbbabd" />
+<img width="1339" height="760" alt="Screenshot 2026-02-11 184538" src="https://github.com/user-attachments/assets/96520dda-d88e-443e-acae-d109e9f9cc86" />
+<img width="1348" height="763" alt="Screenshot 2026-02-11 184556" src="https://github.com/user-attachments/assets/24512acf-6745-429c-ba16-e696750423c1" />
+<img width="1348" height="760" alt="Screenshot 2026-02-11 184608" src="https://github.com/user-attachments/assets/7ca118ab-693c-4b09-8db3-9845ec9e26ff" />
+<img width="1341" height="764" alt="Screenshot 2026-02-11 184619" src="https://github.com/user-attachments/assets/97c32431-5a8b-4b7c-95f0-22ee8b941658" />
 
 ---
 
